@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1653508866 source:d:\c work\reseau\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1653664468 source:d:\c work\iren amedji\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
